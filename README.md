@@ -50,7 +50,7 @@ Try to earn the highest score possible and save the future!
 
 ## Installation
 
-1. Clone the repository to your local machine:  git clone https://github.com/DeveloperHulk/TimeTravelAdventure.git
+1. Clone the repository to your local machine:  git clone https://github.com/dharmendrarana999/Time_travel.git
 
 2. Compile the Java program:
    javac TimeTravelAdventure.java
