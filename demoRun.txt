@@ -1,0 +1,310 @@
+╔══════════════════════════════════╗
+║   Welcome to Time Travel Game!   ║
+║    Explore, Collect, and Win!    ║
+╚══════════════════════════════════╝
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 1
+
+You are now in the Prehistoric Era.
+You stumble upon a hidden cave with a stash of gold coins!
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 2
+
+You find yourself in the Medieval Era.
+You participate in a grand feast at the king's castle and gain popularity.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 3
+
+Welcome to the Future.
+You explore an advanced library and discover valuable research papers.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 4
+
+Player Stats:
+Health: 65
+Gold: 190
+Score: 45
+Inventory:
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 1
+
+You are now in the Prehistoric Era.
+You stumble upon a hidden cave with a stash of gold coins!
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 5
+
+You use 50 gold to heal (+20 health).
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 2
+
+You find yourself in the Medieval Era.
+You help a knight defeat a dragon and receive a reward.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 3
+
+Welcome to the Future.
+You explore an advanced library and discover valuable research papers.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 3
+
+Welcome to the Future.
+You stumble into a post-apocalyptic wasteland. You lose 10 health.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 4
+
+Player Stats:
+Health: 35
+Gold: 380
+Score: 105
+Inventory:
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 1
+
+You are now in the Prehistoric Era.
+You are amazed by the majestic landscapes of the prehistoric era.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 5
+
+You use 50 gold to heal (+20 health).
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 4
+
+Player Stats:
+Health: 60
+Gold: 330
+Score: 115
+Inventory:
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 7
+
+You don't have a map. Keep exploring to find one.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 8
+
+You don't have a compass. Keep exploring to find one.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 9
+
+You don't have a key. Keep exploring to find one.
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice: 10
+
+You need 500 gold to save the future. Keep exploring!
+
+Options:
+1. Travel to the Prehistoric Era
+2. Travel to the Medieval Era
+3. Travel to the Future
+4. Display Stats
+5. Heal (+20 health, cost: 50 gold)
+6. Upgrade Time Machine (cost: 150 gold)
+7. Use Map (if available)
+8. Use Compass (if available)
+9. Use Key (if available)
+10. Save the Future (requires 500 gold)
+11. Quit
+Enter your choice:
